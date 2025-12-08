@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Tripan",
+    "department": "HR",
+    "salary": "50000"
+  },
+  {
+    "id": "2",
+    "name": "Neha",
+    "department": "Engineering",
+    "salary": "60000"
+  },
+  {
+    "id": "3",
+    "name": "Debo",
+    "department": "Marketing",
+    "salary": "45000"
+  },
+  {
+    "id": "4",
+    "name": "Priya",
+    "department": "Marketing",
+    "salary": "55000"
+  }
+]
